@@ -1,6 +1,8 @@
 <!-- 0xfaheng-brand:start -->
 **0xfaheng · ambskill**
 
+> 0xfaheng · 上海封阳科技创始人
+
 [品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/ambskill)
 
 > 本仓库是 0xfaheng 使用或维护的 Fork。原项目来源：[agentmubai/ambskill](https://github.com/agentmubai/ambskill)。原作者署名和许可证保留，使用须遵循原项目许可。
