@@ -1,3 +1,14 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · ambskill**
+
+[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/ambskill)
+
+> 本仓库是 0xfaheng 使用或维护的 Fork。原项目来源：[agentmubai/ambskill](https://github.com/agentmubai/ambskill)。原作者署名和许可证保留，使用须遵循原项目许可。
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 <!-- 维护者：再加一套 skill 时需要改的地方 —— ① 开篇引用句 / 徽章 / 作者句；图是两条线，不再叠对照表；② 「解决什么问题」一段人话 + 处境表；能力一览只两行（一套一行）；③ 导航行末尾加技能说明链接；④ 「快速开始」加一个二级标题；⑤ 「能力一览」加行；⑥ 「怎样工作」加一个二级标题写机制；⑦ 「已知限制」加一组；⑧ 「项目结构」树里 skills/ 下加目录；⑨ 「安装」加 --skill 一行与 claude plugin install / update 各一行；⑩ .claude-plugin/marketplace.json 加 plugin 条目并改 metadata.description；⑪ AGENTS.md 公开技能列表；⑫ GitHub About。其余各节不动。 -->
 
 # ambskill
